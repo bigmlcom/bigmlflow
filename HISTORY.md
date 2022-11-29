@@ -3,6 +3,11 @@
 History
 -------
 
+1.0.2 (2022-11-29)
+~~~~~~~~~~~~~~~~~~
+
+- Adding documentation and updating MLFlow version.
+
 1.0.1 (2022-11-02)
 ~~~~~~~~~~~~~~~~~~
 
